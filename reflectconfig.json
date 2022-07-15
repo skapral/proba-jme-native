@@ -1,0 +1,19 @@
+[
+    {
+        "name": "sun.misc.Unsafe",
+        "fields": [
+            {
+                "name": "theUnsafe"
+            }
+        ]
+    },
+    {
+        "name": "org.lwjgl.PointerBuffer",
+        "unsafeAllocated": true
+    },
+    {
+        "name": "org.lwjgl.glfw.GLFWVidMode",
+        "unsafeAllocated": true
+    }
+]
+
